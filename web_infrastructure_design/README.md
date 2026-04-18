@@ -1,1 +1,1 @@
-# The different web infrastructure case scenarios from simple infrastructures to Distributed,monitored and secured infrastructures
+# The different web infrastructure case scenario designs from simple infrastructures to Distributed,monitored and secured infrastructures
